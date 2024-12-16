@@ -38,7 +38,7 @@
         <commons-io.version>2.6</commons-io.version>
         <commonmark.version>0.12.1</commonmark.version>
         <aliyunoss.version>3.4.2</aliyunoss.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <fasterxml.version>2.9.9</fasterxml.version>
         <commons-codec.version>1.10</commons-codec.version>
         <maven.compiler.source>1.8</maven.compiler.source>
